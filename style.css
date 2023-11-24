@@ -5,13 +5,6 @@ body {
    
 }
 
-
-.texto{
-    color: red;
-   
-}
-
-
 .text{
     height: 500px;
     background-color: rgb(56, 58, 58);
@@ -22,11 +15,11 @@ body {
     font-size: 30;
 }
 
-.topo {
+.cont {
     position: relative;
 }
 
-.topo {
+.cont {
     display: flex; 
 }
 
@@ -34,12 +27,6 @@ body {
     width: 49%;
     padding: 20px;
     box-sizing: border-box;
-}
-
-.img1{
-    width: 400px;
-    height: 450px;
-    border-radius: 10%;
 }
 
 .carro{
