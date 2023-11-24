@@ -23,7 +23,7 @@ body {
     display: flex; 
 }
 
-.img, .text {
+.contDiv {
     width: 49%;
     padding: 20px;
     box-sizing: border-box;
